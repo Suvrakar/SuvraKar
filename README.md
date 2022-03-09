@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **React.js and Node js**
 
-- 🔭 I can work on **MongoDB, Express JS**
+- 🔭 I can work on **MongoDB, MySQL and Express JS**
 
-- 🔭 Programming Language: Java, Python, ES6**
+- 🔭 Programming Language: Java, ES6**
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **kar.suvra@gmail.com**
 
