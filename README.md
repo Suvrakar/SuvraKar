@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debashis Kar Suvra</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **React.js and Django**
+- 🔭 I’m currently working on **ReactTS/NextTS, Django/Node and GraphQL**
 
-- 🔭 I can work on **MongoDB, MySQL and Express JS**
+- 🔭 I can work on **NextJS, MongoDB, MySQL and Express JS**
 
-- 🔭 Programming Language: Java, ES6, Python**
+- 🔭 Programming Language: Java, ES6, TypeScript, Python**
 
 - 🌱 I’m currently learning **Spring Boot**
 
