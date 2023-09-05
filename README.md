@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactTS/NextTS, Django/Node and GraphQL**
 
-- 🔭 I can work on **NextJS, MongoDB, MySQL and Express JS**
+- 🔭 I can work on **NextJS, MongoDB, MySQL & Express JS**
 
 - 🔭 Programming Language: Java, ES6, TypeScript, Python**
 
